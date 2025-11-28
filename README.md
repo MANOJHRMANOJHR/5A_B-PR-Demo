@@ -1,2 +1,2 @@
-Full Name:Manoj.H.R. USN:1MS23CS104
-Full Name:Prerana    USN:1MS23CS090
+Name:Manoj.H.R. USN:1MS23CS104
+Name:Prerana    USN:1MS23CS090
